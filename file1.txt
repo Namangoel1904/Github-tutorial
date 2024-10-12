@@ -8,3 +8,5 @@ Hi!! I Added a Few Useful Cheatsheets for Git please checkout resources
 
 new pull request
 hey my first pull request hope to get it merged
+
+Trying to learn github
